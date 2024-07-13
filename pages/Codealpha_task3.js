@@ -28,8 +28,6 @@ const songs = [
 	{path:"./music/Erfan.mp3",artist:"AmirAbbas Gholab",musicName:"Erfan",cover:"./img/Erfan.jpg"},
 	{path:"./music/shaggy.mp3",artist:"Shaggy",musicName:"Boombastic",cover:"./img/Boombastic.jpg"},
 	
-	
-	
 ]
 
 let isLoading = false
